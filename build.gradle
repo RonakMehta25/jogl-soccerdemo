@@ -1,0 +1,12 @@
+apply plugin: "java"
+apply plugin: "eclipse"
+
+dependencies {
+	compile fileTree (dir: 'lib', includes: ['*.jar'])
+}
+
+repositories {
+	mavenLocal()
+	mavenCentral()
+	flatDir name: 'localRepository', dirs: 'lib'
+}
