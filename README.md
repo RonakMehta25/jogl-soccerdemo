@@ -13,4 +13,4 @@ m		- toggle wireframe
 f		- toggle fog
 
 
-![Alt text](screenshot.png "Screenshot")
+![Screenshot](https://github.com/mkrabset/jogl-soccerdemo/blob/master/screenshot.png?raw=true "Screenshot")
