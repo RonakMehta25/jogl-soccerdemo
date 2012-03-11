@@ -58,7 +58,7 @@ public class SoccerDemo extends JFrame {
       mm.register(football);
       mod.register(football);
       
-      for (int i=0;i<1000;i++) {
+      for (int i=0;i<2000;i++) {
     	  Football fb=new Football();
     	  fb.setPos(new Vector3D((float)(i/20*Math.sin(i)/10)+0f,(float)(i/20*Math.cos(i)/10),10));
     	  mm.register(fb);
