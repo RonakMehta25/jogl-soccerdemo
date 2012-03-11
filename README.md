@@ -1,6 +1,6 @@
 Main class = no.ivark.soccerdemo.SoccerDemo
 
-Run with -Djava.library.path=/home/ivark/sandbox/soccerdemo/soccerdemo/lib -Dsun.java2d.noddraw=true
+Run with -Djava.library.path=/my/library/path/ -Dsun.java2d.noddraw=true
 
 Put the required libraries in the lib-folder (see lib/README.txt)
 
@@ -11,3 +11,5 @@ z 		- increase speed bwd
 arrows 	- change direction
 m		- toggle wireframe 
 f		- toggle fog
+
+
