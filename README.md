@@ -13,3 +13,4 @@ m		- toggle wireframe
 f		- toggle fog
 
 
+![Alt text](screenshot.png "Screenshot")
